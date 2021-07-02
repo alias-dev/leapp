@@ -243,7 +243,7 @@
     "@typescript-eslint/eslint-plugin": "4.16.1",
     "@typescript-eslint/parser": "4.16.1",
     "electron": "12.0.5",
-    "electron-builder": "~22.10.5",
+    "electron-builder": "~22.11.7",
     "electron-builder-squirrel-windows": "~22.10.5",
     "electron-installer-dmg": "~3.0.0",
     "electron-packager": "~15.2.0",
